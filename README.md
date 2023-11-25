@@ -1,4 +1,4 @@
-# Hello, I'm Luka Blagojevic! 👋
+# Hello, I'm Luka Blagojević! 👋
 
 I'm a Research Scientist specializing in Network Science and Experimental/Theoretical Physics. My passion lies in graph modeling, algorithmic development, and data analysis.
 
