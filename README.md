@@ -11,8 +11,7 @@ I'm a Research Scientist specializing in Network Science and Experimental/Theore
 - 📫 Reach me at [lukablagojevic1995@gmail.com](mailto:lukablagojevic1995@gmail.com) or connect with me on [LinkedIn](https://linkedin.com/in/lukablagoje/).
 
 ## My Work 💼
-[Here, you can find a brief showcase of my projects, including algorithm development for network analysis, and publications in prestigious journals.]
-
+I work mostly with graph data, here are some selected projects:
 ## Selected Publications and Projects 📘
 - **Quantifying and ranking user engagement with clickbait articles using NLP-created feature** - [GitHub](https://github.com/lukablagoje/citadel_correlation_one_global_phd_datathon_2023)
 - **The impact of physicality on network structure** - [Nature Physics](https://github.com/lukablagoje/the-impact-of-physicality-on-network-structure)
@@ -21,6 +20,5 @@ I'm a Research Scientist specializing in Network Science and Experimental/Theore
 
 ## Skills 🛠️
 - **Programming:** Python (Numpy, Pandas, SciPy, Matplotlib) | Machine Learning (Scikit-learn) | SQL (Basic)
-- **Languages:** English (C2 level), Serbian (Native), Croatian (Fluent)
 
 Feel free to reach out for collaborations or just to say hi. I'm always open to discussing new projects and ideas!
