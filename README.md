@@ -5,9 +5,9 @@ I'm a Research Scientist specializing in Network Science and Experimental/Theore
 ## About Me 🌱
 - 🎓 PhD in Network Science from Central European University, Vienna, Austria (2020-2024). Specialized in Graph (Network) Modeling and Analysis. 
 - 📚 Bachelor's and Master's in Experimental and Theoretical Physics from University of Belgrade, Serbia (2014-2019).
-- 🔬 Currently working as a Research Scientist at Central European University. Lead author in 2 research projects, published in Nature Physics and EPJ-Data Science.
+- 🔬 Currently working as a Research Scientist at Central European University.
 - 💻 Skilled in Python (Numpy, Pandas, SciPy, Matplotlib), Machine Learning (Scikit-learn), and SQL.
-- 🌐 Fluent in English, Serbian, and Croatian.
+- 🌐 Fluent in English, Serbian.
 - 📫 Reach me at [lukablagojevic1995@gmail.com](mailto:lukablagojevic1995@gmail.com) or connect with me on [LinkedIn](https://linkedin.com/in/lukablagoje/).
 
 ## My Work 💼
