@@ -8,7 +8,7 @@ I'm a Research Scientist specializing in Network Science and Experimental/Theore
 - 🔬 Currently working as a Research Scientist at Central European University.
 - 💻 Skilled in Python (Numpy, Pandas, SciPy, Matplotlib), Machine Learning (Scikit-learn), and SQL.
 - 🌐 Fluent in English, Serbian.
-- 📫 Reach me at [lukablagojevic1995@gmail.com](mailto:lukablagojevic1995@gmail.com) or connect with me on [LinkedIn](https://linkedin.com/in/lukablagoje/).
+- 📫 Connect with me on [LinkedIn](https://linkedin.com/in/lukablagoje/).
 
 ## My Work 💼
 I work mostly with graph data, here are some selected projects:
