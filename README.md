@@ -1,17 +1,17 @@
 # Hello, I'm Luka Blagojević! 👋
 
-I'm a Research Scientist specializing in Network Science and Experimental/Theoretical Physics. My passion lies in graph modeling, algorithmic development, and data analysis.
+I'm a Research Scientist  specializing in Graph (Network) Modeling and Analysis. 
 
 ## About Me 🌱
-- 🎓 PhD in Network Science from Central European University, Vienna, Austria (2020-2024). Specialized in Graph (Network) Modeling and Analysis. 
-- 📚 Bachelor's and Master's in Experimental and Theoretical Physics from University of Belgrade, Serbia (2014-2019).
 - 🔬 Currently working as a Research Scientist at Central European University.
 - 💻 Skilled in Python (Numpy, Pandas, SciPy, Matplotlib), Machine Learning (Scikit-learn), and SQL.
 - 🌐 Fluent in English, Serbian.
 - 📫 Connect with me on [LinkedIn](https://linkedin.com/in/lukablagoje/).
 
-## My Work 💼
-I work mostly with graph data, here are some selected projects:
+## Education 🎓
+- 🎓 PhD in Network Science from Central European University, Vienna, Austria (2020-2024).
+- 📚 Bachelor's and Master's in Experimental and Theoretical Physics from University of Belgrade, Serbia (2014-2019).
+- 
 ## Selected Publications and Projects 📘
 - **Quantifying and ranking user engagement with clickbait articles using NLP-created feature** - [GitHub](https://github.com/lukablagoje/citadel_correlation_one_global_phd_datathon_2023)
 - **The impact of physicality on network structure** - [Nature Physics](https://github.com/lukablagoje/the-impact-of-physicality-on-network-structure)
