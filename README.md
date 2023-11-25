@@ -3,8 +3,8 @@
 I'm a Research Scientist specializing in Network Science and Experimental/Theoretical Physics. My passion lies in graph modeling, algorithmic development, and data analysis.
 
 ## About Me 🌱
-- 🎓 PhD in Network Science from Central European University, Vienna, Austria (2020-2024). Specialized in Graph (Network) Modeling and Analysis. PhD GPA: 3.90/4.00.
-- 📚 Bachelor's and Master's in Experimental and Theoretical Physics from University of Belgrade, Serbia (2014-2019). Bachelor's GPA: 9.50/10.00 | Master's GPA: 10.00/10.00.
+- 🎓 PhD in Network Science from Central European University, Vienna, Austria (2020-2024). Specialized in Graph (Network) Modeling and Analysis. 
+- 📚 Bachelor's and Master's in Experimental and Theoretical Physics from University of Belgrade, Serbia (2014-2019).
 - 🔬 Currently working as a Research Scientist at Central European University. Lead author in 2 research projects, published in Nature Physics and EPJ-Data Science.
 - 💻 Skilled in Python (Numpy, Pandas, SciPy, Matplotlib), Machine Learning (Scikit-learn), and SQL.
 - 🌐 Fluent in English, Serbian, and Croatian.
