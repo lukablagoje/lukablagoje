@@ -1,16 +1,26 @@
-### Hi there 👋
+# Hello, I'm Luka Blagojevic! 👋
 
-<!--
-**lukablagoje/lukablagoje** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Research Scientist specializing in Network Science and Experimental/Theoretical Physics. My passion lies in graph modeling, algorithmic development, and data analysis.
 
-Here are some ideas to get you started:
+## About Me 🌱
+- 🎓 PhD in Network Science from Central European University, Vienna, Austria (2020-2024). Specialized in Graph (Network) Modeling and Analysis. PhD GPA: 3.90/4.00.
+- 📚 Bachelor's and Master's in Experimental and Theoretical Physics from University of Belgrade, Serbia (2014-2019). Bachelor's GPA: 9.50/10.00 | Master's GPA: 10.00/10.00.
+- 🔬 Currently working as a Research Scientist at Central European University. Lead author in 2 research projects, published in Nature Physics and EPJ-Data Science.
+- 💻 Skilled in Python (Numpy, Pandas, SciPy, Matplotlib), Machine Learning (Scikit-learn), and SQL.
+- 🌐 Fluent in English, Serbian, and Croatian.
+- 📫 Reach me at [lukablagojevic1995@gmail.com](mailto:lukablagojevic1995@gmail.com) or connect with me on [LinkedIn](https://linkedin.com/in/lukablagoje/).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My Work 💼
+[Here, you can find a brief showcase of my projects, including algorithm development for network analysis, and publications in prestigious journals.]
+
+## Selected Publications and Projects 📘
+- **Quantifying and ranking user engagement with clickbait articles using NLP-created feature** - [GitHub](https://github.com/lukablagoje/citadel_correlation_one_global_phd_datathon_2023)
+- **The impact of physicality on network structure** - [Nature Physics](https://github.com/lukablagoje/the-impact-of-physicality-on-network-structure)
+- **Cross Call Auction** - [GitHub](https://github.com/lukablagoje/closing-cross-auction)
+- **Temporal patterns of reciprocity in communication networks** - [EPJ-Data Science](https://epjds.epj.org/articles/epjdata/abs/2023/01/13688_2023_Article_382/13688_2023_Article_382.html)
+
+## Skills 🛠️
+- **Programming:** Python (Numpy, Pandas, SciPy, Matplotlib) | Machine Learning (Scikit-learn) | SQL (Basic)
+- **Languages:** English (C2 level), Serbian (Native), Croatian (Fluent)
+
+Feel free to reach out for collaborations or just to say hi. I'm always open to discussing new projects and ideas!
