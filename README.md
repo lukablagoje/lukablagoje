@@ -1,6 +1,6 @@
 # Hello, I'm Luka Blagojević! 👋
 
-I'm a Research Scientist  specializing in Graph (Network) Modeling and Analysis. 
+I'm a Research Scientist  specializing in Graph (Network) Modeling and Analysis. This means that I take new problems and develop mathematical and algorithmic solutions with systems that have an interconnected structure (like social networks, biological neural networks etc.)
 
 ## About Me 🌱
 - 🔬 Currently working as a Research Scientist at Central European University.
