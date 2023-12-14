@@ -14,7 +14,7 @@ I'm a Research Scientist  specializing in Graph (Network) Modeling and Analysis.
 ## Selected Publications and Projects 📘
 - **Quantifying and ranking user engagement with clickbait articles using NLP-created feature** - [GitHub](https://github.com/lukablagoje/citadel_correlation_one_global_phd_datathon_2023)
 - **The impact of physicality on network structure** - [GitHub](https://github.com/lukablagoje/the-impact-of-physicality-on-network-structure)
-- **Temporal patterns of reciprocity in communication networks** -  [GitHub](https://epjds.epj.org/articles/epjdata/abs/2023/01/13688_2023_Article_382/13688_2023_Article_382.html)
+- **Temporal patterns of reciprocity in communication networks** -  [Article](https://epjds.epj.org/articles/epjdata/abs/2023/01/13688_2023_Article_382/13688_2023_Article_382.html)
 
 ## Skills 🛠️
 - **Programming:** Python (Numpy, Pandas, SciPy, Matplotlib) | Machine Learning (Scikit-learn) | SQL (Basic)
