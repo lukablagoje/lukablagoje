@@ -16,7 +16,4 @@ I'm a Research Scientist  specializing in Graph (Network) Modeling and Analysis.
 - **The impact of physicality on network structure** - [GitHub](https://github.com/lukablagoje/the-impact-of-physicality-on-network-structure)
 - **Temporal patterns of reciprocity in communication networks** -  [Article](https://epjds.epj.org/articles/epjdata/abs/2023/01/13688_2023_Article_382/13688_2023_Article_382.html)
 
-## Skills 🛠️
-- **Programming:** Python (Numpy, Pandas, SciPy, Matplotlib) | Machine Learning (Scikit-learn) | SQL (Basic)
-
 Feel free to reach out for collaborations or just to say hi. I'm always open to discussing new projects and ideas!
