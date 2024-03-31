@@ -32,8 +32,10 @@ I'm a Data Scientist specializing in Graph (Network) Modeling and Analysis. This
 
 ### Physical Network Robustness
 - **Status**: In progress | [GitHub](https://github.com/lukablagoje/physical_network_robustness)
-  - As a leading author, simulating 2D and 3D graphs physical attacks (spatial edge removal) in their embedding space.
+  - As a leading author, simulating 2D and 3D graphs' physical attacks (spatial edge removal) in their embedding space.
   - Developing a measure to quantify the connectivity of spatial regions in which the graph (network) is embedded.
+
+## Applied Data Science Projects
 
 # Applied Data Science Projects
 
