@@ -1,6 +1,6 @@
 # Hello, I'm Luka Blagojević! 👋
 
-I'm a Data Scientist specializing in Graph (Network) Modeling and Analysis. This means that I take new problems and develop mathematical and algorithmic solutions with systems that have an interconnected structure (like social networks, biological neural networks etc.)
+I'm a Researcher in Graph (Network) Data Science, with an educational background in Physics (BA and MA) and a PhD in Network Science. This means that I take new problems and develop mathematical and algorithmic solutions with systems that have an interconnected structure (like social networks, biological neural networks etc.)
   
 # Academic Research Projects
 ### The Impact of Physicality on Network Structure
