@@ -31,7 +31,7 @@ I'm a Data Scientist specializing in Graph (Network) Modeling and Analysis. This
   - Created a pipeline that randomizes physical edge trajectories to detect obstacles for more than $10^{5}$ edges at once.
 
 ### Physical Network Robustness
-- **Status**: In progress | [GitHub](https://github.com/lukablagoje/the-impact-of-physicality-on-network-structure)
+- **Status**: In progress | [GitHub](https://github.com/lukablagoje/physical_network_robustness))
   - As a leading author, simulating 2D and 3D graphs physical attacks (spatial edge removal) in their embedding space.
   - Developing a measure to quantify the connectivity of spatial regions in which the graph (network) is embedded.
 
@@ -51,7 +51,7 @@ I'm a Data Scientist specializing in Graph (Network) Modeling and Analysis. This
   - Established an automated pipeline for data-stream tasks, including data collection, cleaning, feature engineering, model training, and prediction.
 
 ### Algorithmic Trading Leveraging Group Trends in Graph Representation
-- **Organization**: WUTIS - Academic Trading And Investment Society | [LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7093246370429476865/) | [GitHub](https://github.com/lukablagoje/temporal_graph_trading)
+- **Organization**: WUTIS - Academic Trading And Investment Society | [LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7093246370429476865/) | [GitHub](https://github.com/lukablagoje/algo-trading-group-trends-graphs/tree/main)
   - As a leader of a 4-member team, achieved a first-place victory in the Algorithmic Trading pitch competition.
   - Created a graph representation based on the cross-correlation of stock price time-series data to identify group trends.
   - Backtested an algorithmic trading strategy focused on stocks deviating and returning to group trends.
