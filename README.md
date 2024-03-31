@@ -2,7 +2,7 @@
 
 I'm a Data Scientist specializing in Graph (Network) Modeling and Analysis. This means that I take new problems and develop mathematical and algorithmic solutions with systems that have an interconnected structure (like social networks, biological neural networks etc.)
 
-# Work Experience
+## Work Experience
 **Researcher in Graph Data Science**  
 *Sep 2020 - Present*  
 Department of Network and Data Science, Central European University, Vienna, Austria  
