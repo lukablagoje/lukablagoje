@@ -15,6 +15,7 @@ Department of Network and Data Science, Central European University, Vienna, Aus
 ## Education 🎓
 - 🎓 PhD in Network Science from Central European University, Vienna, Austria (2020-2024).
 - 📚 Bachelor's and Master's in Experimental and Theoretical Physics from University of Belgrade, Serbia (2014-2019).
+  
 # Academic Research Projects
 ### The Impact of Physicality on Network Structure
 - **Publication**: [Nature Physics](https://www.nature.com/articles/s41567-023-02267-1) | [GitHub](https://github.com/lukablagoje/the-impact-of-physicality-on-network-structure)
@@ -38,9 +39,7 @@ Department of Network and Data Science, Central European University, Vienna, Aus
 - **Status**: In progress | [GitHub](https://github.com/lukablagoje/physical_network_robustness)
   - As a leading author, simulating 2D and 3D graphs' physical attacks (spatial edge removal) in their embedding space.
   - Developing a measure to quantify the connectivity of spatial regions in which the graph (network) is embedded.
-
-## Applied Data Science Projects
-
+  - 
 # Applied Data Science Projects
 
 ### Quantifying and Ranking User Engagement with Clickbait Articles Using NLP-Created Features
