@@ -1,20 +1,6 @@
 # Hello, I'm Luka Blagojević! 👋
 
 I'm a Data Scientist specializing in Graph (Network) Modeling and Analysis. This means that I take new problems and develop mathematical and algorithmic solutions with systems that have an interconnected structure (like social networks, biological neural networks etc.)
-
-## Work Experience
-**Researcher in Graph Data Science**  
-*Sep 2020 - Present*  
-Department of Network and Data Science, Central European University, Vienna, Austria  
-- Managed 2 research projects as a leading author and collaborated within 2 multicultural (5+ person) teams as a contributing author for article publication in peer-reviewed journals.
-- Performed literature reviews, hypothesis developments, research plan formulations, methodological advancements, statistical analysis, and scientific writing.
-- Independently conducted data cleaning, processing, and analysis, algorithmic development, numerical simulations, mathematical modeling, and graph analysis.
-- Individually prepared and presented over 20 exercise classes, evaluated performance, and provided feedback across 3 courses: Introduction to Multivariate Calculus and Linear Algebra, Introduction to Statistics, and Scientific Python.
-
-
-## Education 🎓
-- 🎓 PhD in Network Science from Central European University, Vienna, Austria (2020-2024).
-- 📚 Bachelor's and Master's in Experimental and Theoretical Physics from University of Belgrade, Serbia (2014-2019).
   
 # Academic Research Projects
 ### The Impact of Physicality on Network Structure
