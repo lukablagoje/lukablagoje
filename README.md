@@ -31,7 +31,7 @@ I'm a Data Scientist specializing in Graph (Network) Modeling and Analysis. This
   - Created a pipeline that randomizes physical edge trajectories to detect obstacles for more than $10^{5}$ edges at once.
 
 ### Physical Network Robustness
-- **Status**: In progress | [GitHub](https://github.com/lukablagoje/physical_network_robustness))
+- **Status**: In progress | [GitHub](https://github.com/lukablagoje/physical_network_robustness)
   - As a leading author, simulating 2D and 3D graphs physical attacks (spatial edge removal) in their embedding space.
   - Developing a measure to quantify the connectivity of spatial regions in which the graph (network) is embedded.
 
