@@ -38,7 +38,7 @@ I'm a Data Scientist specializing in Graph (Network) Modeling and Analysis. This
 # Applied Data Science Projects
 
 ### Quantifying and Ranking User Engagement with Clickbait Articles Using NLP-Created Features
-- **Event**: Citadel - Correlation One Global PhD Datathon 2023 | [Competition Link](https://www.citadel.com/careers/students/datathons/) | [GitHub](https://github.com/lukablagoje/citadel_correlation_one_global_phd_datathon_2023
+- **Event**: Citadel - Correlation One Global PhD Datathon 2023 | [Competition Link](https://www.citadel.com/careers/students/datathons/) | [GitHub](https://github.com/lukablagoje/citadel_correlation_one_global_phd_datathon_2023)
   - Utilized NLP methods to analyze sentiment, emotion, and topic of text data.
   - Analyzed click-through rates using Google Analytics data to understand user engagement drivers.
   - Developed a custom ranking system for clickbait articles based on their performance metrics (daily, aggregate, and top 5%).
