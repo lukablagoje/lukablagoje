@@ -1,6 +1,6 @@
 # Hello, I'm Luka Blagojević! 👋
 
-I'm a Researcher in Graph (Network) Data Science, with an educational background in Physics (BA and MA) and a PhD in Network Science. This means that I take new problems and develop mathematical and algorithmic solutions with systems that have an interconnected structure (like social networks, biological neural networks etc.). Below are my previous projects:
+I'm a Researcher in Graph (Network) Data Science, with an educational background in Physics (BA and MA) and a PhD in Network Science. This means that I take new problems and develop mathematical and algorithmic solutions for systems that have an interconnected structure (e.g. social networks, biological neural networks). Below are my previous academic and applied projects:
   
 # Academic Research Projects
 ### The Impact of Physicality on Network Structure
