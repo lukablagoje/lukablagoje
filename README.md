@@ -39,18 +39,19 @@ I'm a Data Scientist specializing in Graph (Network) Modeling and Analysis. This
 
 ### Quantifying and Ranking User Engagement with Clickbait Articles Using NLP-Created Features
 - **Event**: Citadel - Correlation One Global PhD Datathon 2023 | [Competition Link](https://www.citadel.com/careers/students/datathons/) | [GitHub](https://github.com/lukablagoje/citadel_correlation_one_global_phd_datathon_2023)
-  - Utilized NLP methods to analyze sentiment, emotion, and topic of text data.
-  - Analyzed click-through rates using Google Analytics data to understand user engagement drivers.
-  - Developed a custom ranking system for clickbait articles based on their performance metrics (daily, aggregate, and top 5%).
+  - As an individual competitor, utilized NLP methods to determine sentiment, emotion, and topic of text data.
+  - Computed correlations of click-through-rates to determine what drives user engagement, with Google Analytics data.
+  - Developed a custom ranking of clickbait articles, that relied on their daily, aggregate, and top 5% performance.
 
 ### Dynamic XGBoost-Based Model on a Data Stream for Stock Price Prediction
 - **Event**: Optiver - Trading at the Close (Kaggle) Competition | [Kaggle Link](https://www.kaggle.com/lukablagoje/xgboost-pipeline/) | [GitHub](https://github.com/lukablagoje/dynamic-XGBoost-model-data-stream-prediction)
-  - Led a 3-member team to implement an XGBoost model on a data stream for predicting stock prices.
-  - Focused on optimizing hyperparameters with k-fold cross-validation, tailored for time-series data, and included periodic retraining.
-  - Established an automated pipeline for data-stream tasks, including data collection, cleaning, feature engineering, model training, and prediction.
+  - As a leader of a 3-member team, implemented an XGBoost model on a data stream to predict stock prices.
+  - Optimized hyperparameters using k-fold cross-validation tailored for time-series data, including periodic retraining.
+  - Automated data-stream tasks: data collection and cleaning, feature engineering, model retraining, and prediction.
+
 
 ### Algorithmic Trading Leveraging Group Trends in Graph Representation
 - **Organization**: WUTIS - Academic Trading And Investment Society | [LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7093246370429476865/) | [GitHub](https://github.com/lukablagoje/algo-trading-group-trends-graphs/tree/main)
   - As a leader of a 4-member team, achieved a first-place victory in the Algorithmic Trading pitch competition.
   - Created a graph representation based on the cross-correlation of stock price time-series data to identify group trends.
-  - Backtested an algorithmic trading strategy focused on stocks deviating and returning to group trends.
+  - Backtested an algorithmic trading strategy based around stocks deviating and returning to group trends in the graph.
