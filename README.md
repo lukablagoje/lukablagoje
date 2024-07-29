@@ -1,6 +1,6 @@
 # Hello, I'm Luka Blagojević! 👋
 
-I'm a Computational Physics Research Scientist, with an educational background in Theoretical and Experimental Physics (BA and MA) and a PhD in Network Science. 
+I'm a Research Scientist, with an educational background in Theoretical and Experimental Physics (BA and MA) and a PhD in Network Science. 
 
 This means that I take on new problems and develop mathematical and algorithmic solutions for systems that have an interconnected structure (e.g. social networks, biological neural networks). Below are my previous academic and applied projects:
   
@@ -18,7 +18,7 @@ This means that I take on new problems and develop mathematical and algorithmic 
   - Discovered statistically significant results that Twitter exchanges are less reciprocal and bursty than SMS, calls, and emails.
 
 ### Three-Dimensional Shape and Connectivity of Physical Networks
-- **Publication**: [arXiV](https://arxiv.org/abs/2403.19333) | [GitHub](https://github.com/lukablagoje/three-dimensional-shape-connectivity-physical-networks)
+- **Publication**: [arXiV]([https://arxiv.org/abs/2403.19333](https://www.nature.com/articles/s41598-024-67359-1)) | [GitHub](https://github.com/lukablagoje/three-dimensional-shape-connectivity-physical-networks)
   - As a leading author, performed a comprehensive data processing and analysis of 15 volumetric 3D graph datasets.
   - Developed algorithms to quantify the shape, size, and geometry of the data (e.g., fractal dimension, edge volume).
   - Created a pipeline that randomizes physical edge trajectories to detect obstacles for more than $10^{5}$ edges at once.
